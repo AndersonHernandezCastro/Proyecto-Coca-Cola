@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Anderson Hernandez Castro
+Main-Class: Portada
+X-COMMENT: Proyecto Coca Cola de Anderson
